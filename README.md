@@ -1,6 +1,3 @@
-# Python-Projects
-This Repository contains all Python projects.
-
 Netflix EDA Project Overview The Netflix EDA Project is a comprehensive exploration and analysis initiative aimed at deciphering the intricate landscape of Netflix's content offerings. Through meticulous data investigation and analytical scrutiny, the project endeavors to unveil underlying trends, patterns, and insights embedded within the vast repertoire of movies and TV shows available on the platform.
 
 Project Synopsis The journey of the Netflix EDA Project unfolds through a systematic series of steps, each contributing to a holistic understanding of Netflix's content ecosystem.
